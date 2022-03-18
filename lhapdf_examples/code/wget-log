@@ -1,0 +1,19 @@
+--2022-03-14 17:20:23--  http://lhapdfsets.web.cern.ch/lhapdfsets/current/NNPDF31_nlo_as_0118.tar.gz
+Resolving lhapdfsets.web.cern.ch (lhapdfsets.web.cern.ch)... 188.185.90.87, 137.138.31.235, 188.185.87.216, ...
+Connecting to lhapdfsets.web.cern.ch (lhapdfsets.web.cern.ch)|188.185.90.87|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lhapdfsets.web.cern.ch/lhapdfsets/current/NNPDF31_nlo_as_0118.tar.gz [following]
+--2022-03-14 17:20:24--  https://lhapdfsets.web.cern.ch/lhapdfsets/current/NNPDF31_nlo_as_0118.tar.gz
+Connecting to lhapdfsets.web.cern.ch (lhapdfsets.web.cern.ch)|188.185.90.87|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lhapdfsets.web.cern.ch/current/NNPDF31_nlo_as_0118.tar.gz [following]
+--2022-03-14 17:20:25--  https://lhapdfsets.web.cern.ch/current/NNPDF31_nlo_as_0118.tar.gz
+Reusing existing connection to lhapdfsets.web.cern.ch:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41692760 (40M) [application/x-gzip]
+Saving to: ‘NNPDF31_nlo_as_0118.tar.gz’
+
+NNPDF31_nlo_as_0118.tar.gz           60%[=======================================>                           ]  23.89M   454KB/s    in 63s     
+
+2022-03-14 18:35:20 (389 KB/s) - Read error at byte 25053643/41692760 (Success). Retrying.
+
